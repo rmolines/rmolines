@@ -1,7 +1,3 @@
-# Hi, I'm Rafael 👋
-
-📍 **São Paulo, Brazil** | 🤖 **Solo founder, Claude Code as my squad** | 🚀 **Building in public**
-
 ![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -10,7 +6,6 @@
 ![macOS](https://img.shields.io/badge/-macOS-000000?style=flat-square&logo=apple&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-> One-man squad — using Claude Code not as a copilot, but as my entire engineering team. Shipping native macOS apps, web services, and agent infrastructure solo.
 
 ## Current Projects
 
