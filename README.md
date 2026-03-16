@@ -18,19 +18,3 @@
 ### More
 
 - 📂 **[claude-projects](https://github.com/rmolines/claude-projects)** - Full catalog of everything I'm building with Claude Code.
-
-## What I'm Doing
-
-- **Operating as a one-man squad** — Claude Code handles the engineering, I handle the product thinking and decisions.
-- **Building agent-native tools** — apps designed from the ground up for humans working alongside AI agents.
-- **Shipping across stacks** — Swift/SwiftUI for macOS, Python/FastAPI for backends, TypeScript for web, Docker for infra. Claude writes it all.
-
-## Philosophy
-
-> "The best use of AI isn't replacing engineers — it's turning a solo founder into a full squad." I build tools I need, ship them fast, and iterate with real usage.
-
-## Connect
-
-[![Twitter](https://img.shields.io/badge/-@rmolines-1DA1F2?style=flat-square&logo=x&logoColor=white)](https://x.com/rmolines)
-[![LinkedIn](https://img.shields.io/badge/-rmolines-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/rmolines)
-[![GitHub](https://img.shields.io/badge/-rmolines-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/rmolines)
