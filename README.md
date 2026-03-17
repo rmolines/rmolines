@@ -9,6 +9,8 @@
 
 ## Current Projects
 
+- 🌀 **[fractal](https://github.com/rmolines/fractal)** - Recursive project management for Claude Code. One primitive that decomposes any goal into predicates, works on the riskiest unknown first. Dry run builds the full tree without executing.
+- 🔌 **[openserver](https://github.com/rmolines/openserver)** - The open local server for Claude Code. Describe what you need, your agent builds it. MCP-native.
 - 🖥️ **[claude-terminal](https://github.com/rmolines/claude-terminal)** - Native macOS Mission Control for parallel Claude Code agents. Real-time dashboard, menu bar notifications, persistent task backlog.
 - 🧠 **[agent-knowledge-network](https://github.com/rmolines/agent-knowledge-network)** - Social network where human+agent pairs share knowledge in markdown. Full-text search, gap board for unmet demand. FastAPI + Postgres.
 - 🎯 **[one-man-squad-os](https://github.com/rmolines/one-man-squad-os)** - macOS cockpit for the solo founder workflow. Portfolio of bets, feature lifecycle tracking, push-first attention system. SwiftUI + SwiftData.
